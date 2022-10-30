@@ -13,12 +13,13 @@ body {
 }
 
 body {
-	background: #FFFFFF;
+	background: #ffffff;
 }
 
 .banner {
 	background: url(../images/1.jpg) no-repeat 0px 0px;
 	background-size: cover;
+	height: 1080px;
 }
 
 .agileinfo-dot {
@@ -29,6 +30,7 @@ body {
 	-o-background-size: 2px;
 	-ms-background-size: 2px;
 	padding: 3em 0;
+	height: 1080px;
 }
 
 .jarallax {
@@ -51,7 +53,7 @@ body {
 .agileits-logo h1 a {
 	font-size: 2em;
 	text-transform: uppercase;
-	color: #FF9800;
+	color: #ff4655;
 	text-decoration: none;
 	font-weight: 700;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -345,13 +347,13 @@ body {
 }
 
 .callbacks_here a:after {
-	background: #ff9800;
+	background: #ff4655;
 	border: 2px solid #ffffff;
 }
 
 /*-- //slider --*/
-/*-- w3layouts-banner-info --*/
-.w3layouts-banner-info {
+/*-- layouts-banner-info --*/
+.layouts-banner-info {
 	padding: 8em 0;
 }
 
@@ -385,11 +387,11 @@ body {
 	color: #FFFFFF;
 	font-size: 1em;
 	padding: .5em 1em;
-	border: solid 2px #FF9800;
+	border: solid 2px #ff4655;
 	text-decoration: none;
 	border-radius: 30px;
 	margin: 0;
-	background: #FF9800;
+	background: #ff4655;
 }
 
 .w3-button a:hover {
@@ -398,7 +400,7 @@ body {
 	border: solid 2px #FFFFFF;
 }
 
-/*-- //w3layouts-banner-info --*/
+/*-- //layouts-banner-info --*/
 /*-- about--*/
 .about,
 .markets,
@@ -419,7 +421,7 @@ body {
 .agileits-title h2,
 .agileits-title h3 {
 	font-size: 4em;
-	color: #ff9800;
+	color: #ff4655;
 	margin: 0;
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -512,7 +514,7 @@ body {
 	text-align: center;
 	padding: 1.2em 0 0 0;
 	margin: 0 auto 1em;
-	background: #ff9800;
+	background: #ff4655;
 }
 
 .icon-left i.fa {
@@ -591,9 +593,9 @@ body {
 }
 
 .simplefilter li.active {
-	border: 2px solid #ff9800;
+	border: 2px solid #ff4655;
 	color: #ffffff;
-	background: #ff9800;
+	background: #ff4655;
 	border-radius: 30px;
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
@@ -792,7 +794,7 @@ ul.simplefilter {
 
 /*-- //portfolio --*/
 /*-- model --*/
-.agileits-w3layouts-info img {
+.agileits-layouts-info img {
 	width: 100%;
 }
 
@@ -800,7 +802,7 @@ ul.simplefilter {
 	margin: 0;
 	font-size: 2em;
 	text-transform: uppercase;
-	color: #FF9800;
+	color: #ff4655;
 	text-decoration: none;
 	font-weight: 700;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -1003,7 +1005,7 @@ ul.simplefilter {
 }
 
 .team-caption {
-	background: #FF9800;
+	background: #ff4655;
 	padding: 1em;
 	position: absolute;
 	left: 0;
@@ -1031,7 +1033,7 @@ ul.simplefilter {
 }
 
 .blog-left h4 {
-	color: #FF9800;
+	color: #ff4655;
 	margin: 0 0 1em 0;
 	font-size: 2.5em;
 	font-weight: 800;
@@ -1050,7 +1052,7 @@ ul.simplefilter {
 }
 
 .blog-left ul li a {
-	color: #FF9800;
+	color: #ff4655;
 	text-decoration: none;
 	-o-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -1086,7 +1088,7 @@ ul.simplefilter {
 }
 
 .blog-right a:hover {
-	color: #FF9800;
+	color: #ff4655;
 }
 
 .blog-right p {
@@ -1125,8 +1127,8 @@ ul.simplefilter {
 	font-size: 1em;
 	border: none;
 	text-transform: uppercase;
-	background: #FF9800;
-	border: 2px solid #FF9800;
+	background: #ff4655;
+	border: 2px solid #ff4655;
 	font-weight: 600;
 	-o-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -1334,8 +1336,8 @@ ul.simplefilter {
 }
 
 .address-row:hover span.glyphicon {
-	border-color: #FF9800;
-	color: #FF9800;
+	border-color: #ff4655;
+	color: #ff4655;
 	-webkit-transform: rotatey(360deg);
 	-moz-transform: rotatey(360deg);
 	transform: rotatey(360deg);
@@ -1358,7 +1360,7 @@ ul.simplefilter {
 }
 
 .address-right p a {
-	color: #FF9800;
+	color: #ff4655;
 	text-decoration: none;
 }
 
@@ -1397,7 +1399,7 @@ ul.simplefilter {
 }
 
 .amet-medium p a {
-	color: #FF9800;
+	color: #ff4655;
 	text-decoration: none;
 }
 
@@ -1423,9 +1425,9 @@ ul.simplefilter {
 }
 
 .support input[type="submit"] {
-	background: #FF9800;
+	background: #ff4655;
 	cursor: pointer;
-	border: 2px solid #FF9800;
+	border: 2px solid #ff4655;
 	color: #fff;
 	font-weight: 400;
 	font-size: 1em;
@@ -1518,7 +1520,7 @@ ul.simplefilter {
 }
 
 .copyright p a {
-	color: #ff9800;
+	color: #ff4655;
 }
 
 .copyright p a:hover {
@@ -1600,7 +1602,7 @@ ul.simplefilter {
 		font-size: 5em;
 	}
 
-	.w3layouts-banner-info {
+	.layouts-banner-info {
 		padding: 5em 0;
 	}
 
@@ -1715,7 +1717,7 @@ ul.simplefilter {
 
 	.navbar-default .navbar-toggle:hover,
 	.navbar-default .navbar-toggle:focus {
-		background: #FF9800;
+		background: #ff4655;
 	}
 
 	.input {
@@ -1757,7 +1759,7 @@ ul.simplefilter {
 		font-size: 4em;
 	}
 
-	.w3layouts-banner-info {
+	.layouts-banner-info {
 		padding: 4em 0;
 	}
 
@@ -1818,7 +1820,7 @@ ul.simplefilter {
 		padding: 2em 0;
 	}
 
-	.w3layouts-banner-info {
+	.layouts-banner-info {
 		padding: 3em 0;
 	}
 
@@ -1970,7 +1972,7 @@ ul.simplefilter {
 		bottom: 25px;
 	}
 
-	.w3layouts-banner-info {
+	.layouts-banner-info {
 		padding: 2em 0;
 	}
 
